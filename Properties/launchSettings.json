@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Json_problem": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\rectangle.json"
+    }
+  }
+}
